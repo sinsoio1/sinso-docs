@@ -1,7 +1,7 @@
 ---
 id: Quick How-To Guide!
 title: Quick How-To Guide!
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 To install the SINSO node, you need to complete the following steps:
