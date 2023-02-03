@@ -7,7 +7,7 @@ sidebar_position: 2
 Sinso provides an asset cross-chain bridge that can receive accounts in real time, allowing users to transfer SINSO cross-chain on the BNB Smart Chain to the AMSTAR Chain main network, and also to transfer SINSO cross-chain on the AMSTAR Chain main network to the BNB Smart Chain main network。
 
 1. Install Metamask.。lease refer to the official Metamask website for download links: https://metamask.io
-2. Add CRU tokens in the wallet:
+2. Add SINSO tokens in the wallet:
 
    Open Metamask, click “Import tokens”
 

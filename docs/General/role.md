@@ -1,6 +1,6 @@
 ---
-id: role
-title: role
+id: Role
+title: Role
 sidebar_position: 3
 ---
 
