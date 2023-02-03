@@ -38,15 +38,15 @@ You can click the following link to access the Quick Installer. exe file：
 
 Ubuntu 20.04 :
 
-https://github.com/sinsoio/sinso-mine-ui/releases/download/v0.0.2/mine-ui-ubuntu-amd64.tar.gz
+https://github.com/sinsoio/sinso-mine-ui/releases/download/v1.0.0/mine-ui-ubuntu-amd64.tar.gz
 
 Windows 10 :
 
-https://github.com/sinsoio/sinso-mine-ui/releases/download/v0.0.2/mine-ui-windows-amd64.tar.gz
+https://github.com/sinsoio/sinso-mine-ui/releases/download/v1.0.0/mine-ui-windows-amd64.tar.gz
 
 Mac (based on Intel processor)：
 
-https://github.com/sinsoio/sinso-mine-ui/releases/download/v0.0.2/mine-ui-mac-intel.tar.gz
+https://github.com/sinsoio/sinso-mine-ui/releases/download/v1.0.0/mine-ui-mac-intel.tar.gz
 
 ## Configure sinso
 
