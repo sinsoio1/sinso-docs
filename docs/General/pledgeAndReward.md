@@ -5,16 +5,12 @@ sidebar_position: 4
 ---
 
 The guarantor's reward is the reward obtained from pledge.
-Pledge 2000 sinso tokens required for a sinso authentication node. It needs to be transferred into pledge at one time.
 
-Sinso node builder and node guarantor will jointly distribute the income.
-Pledge 10000 sinso tokens required for a sinso upload node. It needs to be transferred into pledge at one time.
+Pledge 2000 sinso tokens required for a sinso authentication node. It needs to be transferred into pledge at one time.Sinso node builder and node guarantor will jointly distribute the income.
 
-Sinso node builder and node guarantor will jointly distribute the income.
-Pledge 200 sinso tokens required for a sinso storage node. It needs to be transferred into pledge at one time.
+Pledge 10000 sinso tokens required for a sinso upload node. It needs to be transferred into pledge at one time.Sinso node builder and node guarantor will jointly distribute the income.
 
-Sinso node builder and node guarantor will jointly distribute the income.
-Revenue sharing ratio Node builder: Node guarantor = 6:4
+Pledge 200 sinso tokens required for a sinso storage node. It needs to be transferred into pledge at one time.Sinso node builder and node guarantor will jointly distribute the income.
 
 ## Award Distribution And Eeceiving
 
