@@ -1,5 +1,5 @@
 ---
-id: Testnet
+id: Mainnet
 title: Mainnet
 sidebar_position: 1
 ---
