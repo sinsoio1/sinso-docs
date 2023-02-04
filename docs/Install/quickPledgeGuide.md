@@ -1,7 +1,7 @@
 ---
-id: Quick Pledge Guide
 title: Quick Pledge Guide
 sidebar_position: 2
+slug: /install/quick-pledge-guide
 ---
 
 ## . Miners Guaranteeing their Own Nodes

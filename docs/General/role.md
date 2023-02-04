@@ -1,7 +1,7 @@
 ---
-id: Role
 title: Role
 sidebar_position: 3
+slug: /general/role
 ---
 
 ## Validate Nodes

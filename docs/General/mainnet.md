@@ -1,7 +1,7 @@
 ---
-id: Mainnet
 title: Mainnet
 sidebar_position: 1
+slug: /general/mainnet
 ---
 
 The Sinso distributed cache network is built on the AMSTAR main chain, which is a data-oriented contract incentive network built by Sinso itself and is an EVM-compatible blockchain.

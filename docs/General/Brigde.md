@@ -1,7 +1,7 @@
 ---
-id: Brigde
 title: Brigde
 sidebar_position: 2
+slug: /general/brigde
 ---
 
 Sinso provides an asset cross-chain bridge that can receive accounts in real time, allowing users to transfer SINSO cross-chain on the BNB Smart Chain to the AMSTAR Chain main network, and also to transfer SINSO cross-chain on the AMSTAR Chain main network to the BNB Smart Chain main network。

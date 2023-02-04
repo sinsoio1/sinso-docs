@@ -1,7 +1,7 @@
 ---
-id: pledgeAndReward
 title: Pledge Reward
 sidebar_position: 4
+slug: /general/pledge-and-reward
 ---
 
 The guarantor's reward is the reward obtained from pledge.

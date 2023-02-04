@@ -1,7 +1,7 @@
 ---
-id: FQA
 title: FQA
 sidebar_position: 1
+slug: /q&a/fqa
 ---
 
 ## Connectivity
@@ -30,7 +30,7 @@ If you need to receive your node rewards, you must use the corresponding address
 
 4. Find the corresponding path, open the document to view your backup private key
 
-![Coinlist ](../img/fqa/fq4.jpg)
+![Coinlist ](../img/fqa/fq4.png)
 
 ## How to import bee node address to MetaMask?
 

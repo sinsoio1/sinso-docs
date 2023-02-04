@@ -1,7 +1,7 @@
 ---
-id: Connectivity
 title: Connectivity
 sidebar_position: 5
+slug: /general/connectivity
 ---
 
 To be fully connected to the sinsonetwork, your sinso nodes need to be able to send and receive messages from the outside world. But usually your router won't allow other ip connections on the internet unless you have the port open for connection. If a node's connection port is not open, we will simply add it to the list of blocked nodes and deny connections from them.
