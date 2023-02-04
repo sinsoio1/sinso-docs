@@ -56,4 +56,4 @@ SINSO is backed by a vibrant community - join one of our channels:
 
 If your SINSO is not working properly, please let us know on GitHub!
 
-Report:https://github.com/sinsoio/sinso-docs/issues
+Report:https://github.com/sinsoio/sinso-docs/issues/new
