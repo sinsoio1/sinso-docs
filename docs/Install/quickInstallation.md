@@ -34,7 +34,7 @@ Currently supported systems:
 
 # Download Address
 
-You can click the following link to access the Quick Installer. exe file：
+You can click the following link to access the Quick Installer. exe file:
 
 Ubuntu 20.04 :
 
@@ -44,7 +44,7 @@ Windows 10 :
 
 https://github.com/sinsoio/sinso-mine-ui/releases/download/v1.0.0/mine-ui-windows-amd64.tar.gz
 
-Mac (based on Intel processor)：
+Mac (based on Intel processor):
 
 https://github.com/sinsoio/sinso-mine-ui/releases/download/v1.0.0/mine-ui-mac-intel.tar.gz
 
@@ -102,11 +102,11 @@ The Sinso incentive network is about sharing and storing data. To enable other n
 
 You can check whether your node's Internet port is open through the UI interface
 
-1 First enter the node password to start the node
+1. First enter the node password to start the node
 
 ![Coinlist ](../img/ts1.jpg)
 
-2 Wait for the system to automatically detect and start
+2. Wait for the system to automatically detect and start
 
 ![Coinlist ](../img/ts2.jpg)
 

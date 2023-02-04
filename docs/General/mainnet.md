@@ -13,10 +13,10 @@ It is also a native token on the AMSTAR chain (converted by cross-chain bridge).
 
 ## Add Amstar Network
 
-Name：Amstar Mainnet
+Name:Amstar Mainnet
 
 RPC: https://mainnet-rpc.amstarscan.com/
 
 Chain id: 1388
 
-Block explorer URL : https://mainnet.amstarscan.com/
+Block explorer URL: https://mainnet.amstarscan.com/

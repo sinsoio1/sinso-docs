@@ -14,9 +14,8 @@ Pledge 200 sinso tokens required for a sinso storage node. It needs to be transf
 
 ## Award Distribution And Eeceiving
 
-The Sinso node will send information to the verifier every hour to prove that it works online, uploads or stores data, and has a pledge pass. When the verifier passes the verification, it will send the signature to the node and get the reward through the signature.
-
-The reward will be directly distributed to the wallet address of the node and the wallet address of the guarantor according to the proportion.
+The Sinso node will send information to the verifier to prove that it works online, uploads or stores data, and has a pledge pass. The verifier will verify whether the message sent by the node is true. After the verification, the work certificate of the node will be recorded, and the cumulative score will be obtained. The node will receive its reward according to the score
+The reward will be directly allocated to the wallet address of the node and the wallet address of the guarantor according to the proportion.
 
 30% of the rewards will be released directly, and the remaining 70% will be released linearly in 18 periods, with an interval of 10 days. The direct release and linear release of the sinso pass can be obtained directly through the corresponding wallet address.
 
@@ -24,8 +23,8 @@ The reward will be directly distributed to the wallet address of the node and th
 
 ## Redemption of Pledge Currency
 
-After pledging the node, the guarantor cannot redeem the pledge currency for a certain period (90 days). The pledge currency can only be redeemed after the lock-up period expires. This is to ensure that nodes can generate revenue normally。
+After pledging the node, the guarantor cannot redeem the pledge currency for a certain period (90 days). The pledge currency can only be redeemed after the lock-up period expires. This is to ensure that nodes can generate revenue normally.
 
 ## Switch Nodes
 
-When the node pledged by the guarantor does not work offline for some reason and reaches a certain time (48 hours), the guarantor can directly switch to other nodes that work normally and continue to generate guarantee income。
+When the node pledged by the guarantor does not work offline for some reason and reaches a certain time (48 hours), the guarantor can directly switch to other nodes that work normally and continue to generate guarantee income.

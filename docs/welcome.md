@@ -40,10 +40,20 @@ We are happy to have you join our efforts! Would you like to help us create SINS
 
 SINSO is backed by a vibrant community - join one of our channels:
 
-- https://twitter.com/sinsotech
-- https://t.me/sinsotech
-- https://sinsonetwork.medium.com
+- twitter
+
+  https://twitter.com/sinsotech
+
+- Telegram
+
+  https://t.me/sinsotech
+
+- Discord
+
+  https://sinsonetwork.medium.com
 
 ## Reporting a Bug
 
 If your SINSO is not working properly, please let us know on GitHub!
+
+Report:https://github.com/sinsoio/sinso-docs/issues

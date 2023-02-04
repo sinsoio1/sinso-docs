@@ -46,10 +46,10 @@ Your output should contain something like:
 
 ```
 eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST> mtu 1500
-inet 178.128.196.191 netmask 255.255.240.0 broadcast 178.128.207.255
+inet 176.56.172.39 netmask 255.255.240.0 178.128.207.255
 ```
 
-Here we can see our computer's `public IP address` 178.128.196.191. This is the address that is used by other computers we connect to over the Internet. We can verify this using a third party service such as icanhazip or ifconfig.
+Here we can see our computer's `public IP address` 176.56.172.39. This is the address that is used by other computers we connect to over the Internet. We can verify this using a third party service such as icanhazip or ifconfig.
 
 ```
 curl icanhazip.com --ipv4
@@ -64,13 +64,13 @@ curl ifconfig.co --ipv4
 The response something contain something like:
 
 ```
-178.128.196.191
+176.56.172.39
 ```
 
 With Sinso running, try to connect to your Sinso's p2p port using the public IP adddress from another computer:
 
 ```
-nc -zv 178.128.196.191 1634
+nc -zv 176.56.172.39 1634
 ```
 
 If you have success, congratulations!
@@ -104,7 +104,7 @@ Here we will set up a rule to forward port `192.168.0.10` of our private IP addr
 
 Now, when requests come to our public address, `86.98.94.9:1634` they are modified by our router and forwarded to our private IP and port `192.168.0.10:1634`.
 
-You can check if your port is connected by checking our program。If not, we can try a few things to make sure there are no barriers stopping us from getting through.
+You can check if your port is connected by checking our program.If not, we can try a few things to make sure there are no barriers stopping us from getting through.
 
 1. Check your computer's firewall.
 

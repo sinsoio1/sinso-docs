@@ -4,7 +4,7 @@ sidebar_position: 2
 slug: /install/quick-pledge-guide
 ---
 
-## . Miners Guaranteeing their Own Nodes
+## Miners Guaranteeing their Own Nodes
 
 To stake a node, you must hold the official SINSO token of the AmStar chain. (Reminder, if you hold official tokens on the BSC chain, you need to convert them through the cross-chain bridge, check the cross-chain bridge operation tutorial for details)
 
@@ -36,7 +36,7 @@ Connect your wallet (any wallet address other than your working node address can
 
 ## 4.View pledged nodes
 
-Enter the “My Node” section, connect the wallet address you used for staking SINSO tokens, and the system will automatically display the pledged node information under that specific address.
+Enter the "My Node" section, connect the wallet address you used for staking SINSO tokens, and the system will automatically display the pledged node information under that specific address.
 
 `Cashable Rewards`: refer to the SINSO tokens that can be withdrawn directly to the wallet
 
@@ -46,21 +46,21 @@ Enter the “My Node” section, connect the wallet address you used for staking
 
 ## 5.Checking Node Rewards
 
-Enter the "my node” section, enter your node management wallet address, and the system will display the node information connected to that address.
+Enter the "my node" section, enter your node management wallet address, and the system will display the node information connected to that address.
 
 ![Coinlist ](../img/guide/gu9.jpg)
 
-## 6. Collecting Node Rewards
+## 6.Collecting Node Rewards
 
 After selecting "My Node", enter your node management address, click Search to query the node connected to that address.
 
 ![Coinlist ](../img/guide/gu10.jpg)
 
-Click “Cashout”
+Click "Cashout"
 
 ![Coinlist ](../img/guide/gu11.jpg)
 
-Click “Confirm” after confirming the amount
+Click "Confirm" after confirming the amount
 
 ![Coinlist ](../img/guide/gu12.jpg)
 
@@ -78,11 +78,11 @@ After selecting "My Staking", connect your guarantor's wallet address, the syste
 
 ![Coinlist ](../img/guide/gu15.jpg)
 
-Click “Cashout”
+Click "Cashout"
 
 ![Coinlist ](../img/guide/gu16.jpg)
 
-After confirming the amount, click “Confirm” on both the website as well as on your wallet and wait for the signing page on your wallet
+After confirming the amount, click "Confirm" on both the website as well as on your wallet and wait for the signing page on your wallet
 
 ![Coinlist ](../img/guide/gu17.jpg)
 

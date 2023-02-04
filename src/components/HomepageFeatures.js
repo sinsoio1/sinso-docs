@@ -71,7 +71,7 @@ const zhFeatureList = [
     description: (
       <>
         Web3medicallabs 是一个服务于医学领域的医学开源社区，
-        里面有许多新颖实用的项目。
+        里面有许多新颖实用的项目.
       </>
     ),
   },
@@ -91,8 +91,8 @@ const zhFeatureList = [
     Svg: require('../../static/img/img4.svg').default,
     description: (
       <>
-        我们聚集了一群改变世界的程序员。
-        你愿意接受最困难的问题并挑战自己吗？快快 加入我们！
+        我们聚集了一群改变世界的程序员. 你愿意接受最困难的问题并挑战自己吗？快快
+        加入我们！
       </>
     ),
   },
