@@ -10,7 +10,7 @@ Which p2p port does sinso use and which should I open in my router?
 
 The default p2p port for sinso in 1634, please forward this using your router and allow traffic over your firewall as necessary.
 
-https://docs.sinso.io/docs/General/connectivity
+https://docs.sinso.io/docs/general/connectivity
 
 ## How to export the node private key from the installed Sinso-GUI program
 
