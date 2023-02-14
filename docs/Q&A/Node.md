@@ -12,6 +12,8 @@ Reference: https://docs.sinso.io/docs/general/connectivity
 
 ## My network is accessed through a router, how to open the external network port?
 
+Node port 1634,you need to open the external network port 1634 on the router
+
 Each router hardware device is different, please refer to your device’s introduction.
 
 ## Why is my node going offline?
