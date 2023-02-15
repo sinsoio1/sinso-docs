@@ -8,9 +8,9 @@ slug: /q&a/reward
 
 The total number of SINSO token rewards in the first phase of the SINSO mainnet is 30,000,000 pieces (tokens)
 
-## How is the incentive rewards of the SINSO mainnet released and distributed?
+## How are the incentive rewards of the SINSO Mainnet released and distributed?
 
-When the number of active and staked nodes on the entire network reaches 2,000, we will start the official release of SINSO token rewards, which will be released according to ten years of deflation. `That is, the higher the reward in the early stage, the lower the reward in the later stage.`
+When the whole network accumulates 2,000 active nodes, it will trigger the official release of SINSO token rewards according to a ten-year deflationary model.That means, rewards for earlier-stage mining will be higher and rewards will decrease over time.
 
 ## How to participate in the SINSO mainnet?
 
