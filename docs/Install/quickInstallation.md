@@ -34,7 +34,7 @@ Currently supported systems:
 
 # Download Address
 
-You can click the following link to access the Quick Installer. exe file:
+You can click the link bellow to download
 
 Ubuntu 20.04 :
 
