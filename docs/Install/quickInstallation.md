@@ -74,6 +74,12 @@ After the SINSO configuration is completed, the performance of your device runni
 
 ![Coinlist ](../img/in2.jpg)
 
+## Sync chain data
+
+Click on the directory `"Synchronize latest data"` on the left. Then click `"Download"` and wait for the download to complete. After the data is synchronized, the node will connect to the main network and start working faster.
+
+![Coinlist ](../img/inChain.jpg)
+
 ## Add sinso node
 
 You can directly enter a number less than or equal to the system prompt, and then click Auto Generate
