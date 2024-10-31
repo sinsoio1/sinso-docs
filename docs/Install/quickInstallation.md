@@ -34,19 +34,19 @@ Currently supported systems:
 
 # Download Address
 
-You can click the following link to access the Quick Installer. exe file:
+You can click the link bellow to download
 
 Ubuntu 20.04 :
 
-https://github.com/sinsoio/sinso-mine-ui/releases/download/v1.0.0/mine-ui-ubuntu-amd64.tar.gz
+https://github.com/sinsoio/sinso-mine-ui/releases/download/v1.1.1/mine-ui-ubuntu-amd64.tar.gz
 
 Windows 10 :
 
-https://github.com/sinsoio/sinso-mine-ui/releases/download/v1.0.0/mine-ui-windows-amd64.tar.gz
+https://github.com/sinsoio/sinso-mine-ui/releases/download/v1.1.1/mine-ui-windows-amd64.tar.gz
 
 Mac (based on Intel processor):
 
-https://github.com/sinsoio/sinso-mine-ui/releases/download/v1.0.0/mine-ui-mac-intel.tar.gz
+https://github.com/sinsoio/sinso-mine-ui/releases/download/v1.1.1/mine-ui-mac-intel.tar.gz
 
 ## Configure sinso
 
@@ -73,6 +73,12 @@ Sinso is decentralized storage, so you need to set your data storage directory. 
 After the SINSO configuration is completed, the performance of your device running sinso will be displayed, which will directly affect the number of sinso nodes that your device can set.
 
 ![Coinlist ](../img/in2.jpg)
+
+## Sync chain data
+
+Click on the directory `"Synchronize latest data"` on the left. Then click `"Download"` and wait for the download to complete. After the data is synchronized, the node will connect to the main network and start working faster.
+
+![Coinlist ](../img/inChain.jpg)
 
 ## Add sinso node
 
